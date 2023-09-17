@@ -1,0 +1,12 @@
+# Ide's cache directories 
+*.vscode/
+
+# language cache directory
+__pycache__/
+
+#System environment configuration files
+*.env
+
+
+#Datasets
+**/*.csv
